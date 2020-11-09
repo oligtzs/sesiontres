@@ -50,6 +50,15 @@ ul {
     margin-left: 25px;
 }
 
+.promo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #025157;
+}
+
+.parrafo-publicidad {
+    color: #343434;
+}
+
 .signin {
     color: #67b54b;
     margin-right: 10px;
